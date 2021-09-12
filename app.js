@@ -15,7 +15,7 @@ app.post("/", (req, res) => {
         service: "gmail",
         auth: {
             user: "ubadco@gmail.com",
-            pass: "pass"
+            pass: "koimilgaya"
         }
     });
     const mailOptions = {
@@ -37,5 +37,5 @@ app.post("/", (req, res) => {
 })
 const PORT = process.env.PORT || 5000
 app.listen(PORT, () => {
-    console.log("server started at port 3000");
+    console.log("server started at port 5000");
 });
