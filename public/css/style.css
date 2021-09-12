@@ -66,6 +66,9 @@
 #burger-toggle:checked ~ .menu .image-link:nth-child(7) img {
   transition-delay: 0.66s;
 }
+#burger-toggle:checked ~ .menu .image-link:nth-child(8) img {
+  transition-delay: 0.74s;
+}
 #burger-toggle:checked ~ .burger-menu .line::after {
   transform: translateX(0);
 }
