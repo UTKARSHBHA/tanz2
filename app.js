@@ -15,7 +15,7 @@ app.post("/", (req, res) => {
         service: "gmail",
         auth: {
             user: "ubadco@gmail.com",
-            pass: ""
+            pass: "koimilgaya"
         }
     });
     const mailOptions = {
