@@ -463,7 +463,7 @@ header {
 /* contact us */
 
 /*---------------------------------------------*/
-
+/* 
 input {
   outline: none;
   border: none;
@@ -504,11 +504,11 @@ textarea::-moz-placeholder {
 }
 textarea:-ms-input-placeholder {
   color: #bdbdd3;
-}
+} */
 
 /*==================================================================
 [ Contact - Area]*/
-
+/* 
 .container-contact {
   width: 100%;
   min-height: 70vh;
@@ -536,7 +536,7 @@ textarea:-ms-input-placeholder {
   width: 600px;
   background: transparent;
   padding: 40px 0px 20px 0px;
-}
+} */
 
 /*==================================================================
 [ Contact - Form ]*/
