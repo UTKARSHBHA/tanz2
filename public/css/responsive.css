@@ -261,7 +261,7 @@
 
 @media screen and (max-width: 600px) {
   .myContainer{
-    margin: 10px;
+    margin: 0 10px;
   }
   .message {
     flex-direction: column;
